@@ -1,0 +1,25 @@
+#draw {
+    display: block;
+    margin: auto;
+    border: 1px solid #000000;
+    background-color: whitesmoke;
+}
+
+h2 {
+    text-align: center;
+}
+
+#canvas {
+    text-align: center;
+}
+
+#footnote {
+    text-align: right;
+    padding-right: 1em;
+    color: whitesmoke;
+    size: 24px;
+}
+
+#background {
+    background-image: linear-gradient(black, grey);
+}
