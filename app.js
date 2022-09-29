@@ -1,3 +1,8 @@
+
+// DONE BY:-   MUKUL GUPTA
+//     E-MAIL:-    mukul798348@gmail.com
+
+
 var canvas = document.getElementById("draw");
 var ctx = canvas.getContext("2d");
 var pen = document.getElementById("pen");
